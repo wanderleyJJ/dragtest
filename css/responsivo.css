@@ -1,0 +1,22 @@
+@media (max-width:570px){
+    .informacoes .descricao {
+        width: 80%;
+        text-align: center;
+
+    }
+
+}
+
+
+
+
+@media (max-width: 390px){
+    .informacoes .descricao {
+        width: 80%;
+        text-align: center;
+
+    }
+
+}
+
+    
